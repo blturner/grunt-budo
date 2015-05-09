@@ -1,6 +1,6 @@
 {
   "name": "grunt-budo",
-  "description": "The best Grunt plugin ever.",
+  "description": "A grunt task for budo.",
   "version": "0.1.0",
   "homepage": "https://github.com/blturner/grunt-budo",
   "author": {
