@@ -1,7 +1,7 @@
 {
   "name": "grunt-budo",
   "description": "A grunt task for budo.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/blturner/grunt-budo",
   "author": {
     "name": "Benjamin Turner",
